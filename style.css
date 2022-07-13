@@ -1,0 +1,45 @@
+body,html{
+	height: 100%;
+	width: 100%;
+	font-family: 'Edu QLD Beginner', cursive;
+	font-family: 'Montserrat', sans-serif;
+  background: url(download.jpeg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1{
+	font-size: 3em;
+	color: white;
+	text-transform: uppercase;
+	text-align: center;
+}
+hr{
+	margin: ;
+	border-color:#F05F44;
+	border-width: 4px;
+	max-width: 65px;
+}
+.buffer{
+	height: 8rem;
+}
+.btn{
+	font-weight: 700;
+	border-radius: 300px;
+	text-transform: uppercase;
+}
+.btn-xl{
+	padding: 1rem 2rem;
+}
+.btn-primary{
+	background-color: #F05F44;
+	border-color:#F05F44; 
+}
+
+.btn-primary:hover{
+	background-color: #EE4B08;
+	border-color:white;
+	border-width: 4px;
+}
